@@ -6,7 +6,7 @@ class Run
     static void Main(string[] args)
     {
         // Đường dẫn đến file CSV
-        string filePath = @"...\Project\DSA_Project\data\test.csv";
+        string filePath = @"data\data.csv";
 
         // Gọi hàm để đọc file từ FileFunctions
         List<BankStatement> statements = Functions.ReadStatementsFromFile(filePath);
