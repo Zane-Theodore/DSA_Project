@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\.ENAZ\\Code\\Cs\\Project\\DSA_Project\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\DSA_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B54CC5E3-30C7-4F49-B134-2699759197B9}|DSA_Project.csproj|c:\\users\\user\\.enaz\\code\\cs\\project\\dsa_project\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B54CC5E3-30C7-4F49-B134-2699759197B9}|DSA_Project.csproj|solutionrelative:run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\.ENAZ\\Code\\DSA\\DSA_Project\\Run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Run.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\.ENAZ\\Code\\Cs\\Project\\DSA_Project\\Run.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\DSA_Project\\Run.cs",
               "RelativeDocumentMoniker": "Run.cs",
-              "ToolTip": "C:\\Users\\USER\\.ENAZ\\Code\\Cs\\Project\\DSA_Project\\Run.cs",
+              "ToolTip": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\DSA_Project\\Run.cs",
               "RelativeToolTip": "Run.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T07:03:46.842Z",
               "EditorCaption": ""
