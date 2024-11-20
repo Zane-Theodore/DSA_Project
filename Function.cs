@@ -92,6 +92,8 @@ public class Functions
                     break;
                 default:
                     Console.WriteLine("Lựa chọn không hợp lệ.");
+                    Console.WriteLine("Ấn enter để tiếp tục.");
+                    Console.ReadLine();
                     break;
             }
         }
@@ -238,6 +240,8 @@ public class Functions
         else
         {
             Console.WriteLine("Số lượng không hợp lệ. Vui lòng nhập số nguyên dương.");
+            Console.WriteLine("Ấn enter để tiếp tục.");
+            Console.ReadLine();
         }
     }
 
@@ -286,6 +290,8 @@ public class Functions
 
                 default:
                     Console.WriteLine("Lựa chọn không hợp lệ, vui lòng thử lại.");
+                    Console.WriteLine("Ấn enter để tiếp tục.");
+                    Console.ReadLine();
                     break;
             }
         }

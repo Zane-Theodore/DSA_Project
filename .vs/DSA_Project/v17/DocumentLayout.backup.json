@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\demo_project_DSA\\DSA_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\.ENAZ\\Code\\DSA\\demo_project_DSA\\DSA_Project\\Run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B54CC5E3-30C7-4F49-B134-2699759197B9}|DSA_Project.csproj|c:\\users\\user\\.enaz\\code\\dsa\\demo_project_dsa\\dsa_project\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54CC5E3-30C7-4F49-B134-2699759197B9}|DSA_Project.csproj|solutionrelative:function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\.ENAZ\\Code\\DSA\\demo_project_DSA\\DSA_Project\\Function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B54CC5E3-30C7-4F49-B134-2699759197B9}|DSA_Project.csproj|c:\\users\\user\\.enaz\\code\\dsa\\demo_project_dsa\\dsa_project\\bankstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54CC5E3-30C7-4F49-B134-2699759197B9}|DSA_Project.csproj|solutionrelative:bankstatement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54CC5E3-30C7-4F49-B134-2699759197B9}|DSA_Project.csproj|c:\\users\\user\\.enaz\\code\\dsa\\demo_project_dsa\\dsa_project\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54CC5E3-30C7-4F49-B134-2699759197B9}|DSA_Project.csproj|solutionrelative:run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "BankStatement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\demo_project_DSA\\DSA_Project\\BankStatement.cs",
+              "RelativeDocumentMoniker": "BankStatement.cs",
+              "ToolTip": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\demo_project_DSA\\DSA_Project\\BankStatement.cs",
+              "RelativeToolTip": "BankStatement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:47:29.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Run.cs",
               "DocumentMoniker": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\demo_project_DSA\\DSA_Project\\Run.cs",
               "RelativeDocumentMoniker": "Run.cs",
@@ -30,18 +46,17 @@
               "RelativeToolTip": "Run.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T08:47:05.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T08:47:05.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Function.cs",
               "DocumentMoniker": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\demo_project_DSA\\DSA_Project\\Function.cs",
               "RelativeDocumentMoniker": "Function.cs",
               "ToolTip": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\demo_project_DSA\\DSA_Project\\Function.cs",
               "RelativeToolTip": "Function.cs",
-              "ViewState": "AgIAAFUCAAAAAAAAAAAUwGICAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAwA0BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T13:24:30.702Z",
               "EditorCaption": ""
