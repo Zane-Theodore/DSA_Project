@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\DSA_Project\\DSA_Project.csproj": {}
+    "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\demo_project_DSA\\DSA_Project\\DSA_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\DSA_Project\\DSA_Project.csproj": {
+    "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\demo_project_DSA\\DSA_Project\\DSA_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\DSA_Project\\DSA_Project.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\demo_project_DSA\\DSA_Project\\DSA_Project.csproj",
         "projectName": "DSA_Project",
-        "projectPath": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\DSA_Project\\DSA_Project.csproj",
+        "projectPath": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\demo_project_DSA\\DSA_Project\\DSA_Project.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\DSA_Project\\obj\\",
+        "outputPath": "C:\\Users\\USER\\.ENAZ\\Code\\DSA\\demo_project_DSA\\DSA_Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
