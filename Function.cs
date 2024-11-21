@@ -372,38 +372,45 @@ public class Functions
     // Hiển thi menu của chức năng xắp xếp
     private static void DisplaySortMenu(List<BankStatement> statements)
     {
-        Console.Clear();
-        Console.WriteLine("Sắp xếp dữ liệu:");
-        Console.WriteLine("1. Theo ngày (tăng dần)");
-        Console.WriteLine("2. Theo ngày (giảm dần)");
-        Console.WriteLine("3. Theo số tiền (tăng dần)");
-        Console.WriteLine("4. Theo số tiền (giảm dần)");
-        Console.WriteLine("0. Quay lại menu chính");
-        Console.Write("Chọn chức năng: ");
-        string choice = Console.ReadLine();
-
-        switch (choice)
+        while (true)
         {
-            case "1":
-                SortByDateAscending(statements);
-                break;
-            case "2":
-                SortByDateDescending(statements);
-                break;
-            case "3":
-                SortByAmountAscending(statements);
-                break;
-            case "4":
-                SortByAmountDescending(statements);
-                break;
-            case "0":
-                return;
-            default:
-                Console.WriteLine("Lựa chọn không hợp lệ.");
-                return;
+            Console.Clear();
+            Console.WriteLine("Sắp xếp dữ liệu:");
+            Console.WriteLine("1. Theo ngày (tăng dần)");
+            Console.WriteLine("2. Theo ngày (giảm dần)");
+            Console.WriteLine("3. Theo số tiền (tăng dần)");
+            Console.WriteLine("4. Theo số tiền (giảm dần)");
+            Console.WriteLine("0. Quay lại menu chính");
+            Console.Write("Chọn chức năng: ");
+            string choice = Console.ReadLine();
+
+            switch (choice)
+            {
+                case "1":
+                    SortByDateAscending(statements);
+                    DisplayStatements(statements);
+                    break;
+                case "2":
+                    SortByDateDescending(statements);
+                    DisplayStatements(statements);
+                    break;
+                case "3":
+                    SortByAmountAscending(statements);
+                    DisplayStatements(statements);
+                    break;
+                case "4":
+                    SortByAmountDescending(statements);
+                    DisplayStatements(statements);
+                    break;
+                case "0":
+                    return;
+                default:
+                    Console.WriteLine("Lựa chọn không hợp lệ.");
+                    return;
+            }
+          
         }
-        DisplayStatements(statements);
-    }
+    } 
 
     // Gọi hàm xắp xếp theo ngày tăng dần
     private static void SortByDateAscending(List<BankStatement> statements)
