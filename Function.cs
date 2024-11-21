@@ -163,7 +163,7 @@ public class Functions
         Console.WriteLine($"Trang: {currentPage} / {totalPages}\n");
 
         // Định nghĩa chiều rộng cố định cho từng cột
-        const int col1Width = 4;  // Chiều rộng cột STT
+        const int col1Width = 6;  // Chiều rộng cột STT
         const int col2Width = 15; // Chiều rộng cột Ngày giao dịch
         const int col3Width = 13; // Chiều rộng cột Số tiền (đủ chứa tối đa 1 tỷ với định dạng 1,000,000,000)
         const int col4Width = 100; // Chiều rộng cột Nội dung
