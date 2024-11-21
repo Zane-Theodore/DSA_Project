@@ -11,7 +11,6 @@ class Run
         Console.OutputEncoding = System.Text.Encoding.UTF8;
         // Gọi hàm để đọc file từ FileFunctions
         List<BankStatement> statements = Functions.ReadStatementsFromFile(filePath);
-
         // Chạy chương trình
         Functions.DisplayMenu(statements);
     }
